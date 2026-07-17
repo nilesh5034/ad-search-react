@@ -1,0 +1,26 @@
+.gitignore
+
+# Backend
+Backend/bin/
+Backend/obj/
+Backend/.vs/
+Backend/.vscode/
+Backend/*.user
+Backend/*.suo
+
+# Frontend
+Frontend/node_modules/
+Frontend/.env.local
+Frontend/.env.development.local
+Frontend/.env.test.local
+Frontend/.env.production.local
+Frontend/build/
+Frontend/dist/
+Frontend/.DS_Store
+Frontend/npm-debug.log*
+Frontend/yarn-debug.log*
+Frontend/yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db

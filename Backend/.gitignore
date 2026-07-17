@@ -1,0 +1,13 @@
+.gitignore
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+packages/
+.nuget/
+*.nupkg
+.DS_Store
+Thumbs.db
